@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: A former oncologist and professor at MD Anderson Cancer Center,
+  Ana Maria Gonzalez-Angulo, MD, began her career in medicine and medical
+  research in 2003.
 published: true
 schemaType: WebPage
 header: Blog
